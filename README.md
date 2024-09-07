@@ -1,4 +1,4 @@
-# project1
+# my-vue2-project
 
 ## Project setup
 ```
@@ -22,3 +22,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Student List
+622115511 Sixuan Li
+642115503 Haoxuan Yu
