@@ -14,9 +14,9 @@
             <tr>
               <th>ranking</th>
               <th>country</th>
-              <th><img src="@/assets/gold.png" alt="gold" class="medal-icon"> gold</th>
-              <th><img src="@/assets/silver.png" alt="silver" class="medal-icon"> silver</th>
-              <th><img src="@/assets/bronze.png" alt="bronze" class="medal-icon"> bronze</th>
+              <th><img src="@/assets/gold.png" alt="金牌" class="medal-icon"> gold</th>
+              <th><img src="@/assets/silver.png" alt="银牌" class="medal-icon"> silver</th>
+              <th><img src="@/assets/bronze.png" alt="铜牌" class="medal-icon"> bronze</th>
               <th>total</th>
             </tr>
             </thead>
@@ -33,9 +33,9 @@
           </table>
         </div>
         <div class="pagination">
-          <button @click="prevPage" :disabled="currentPage === 1">Last page</button>
+          <button @click="prevPage" :disabled="currentPage === 1">上一页</button>
           <span>{{ currentPage }} / {{ totalPages }}</span>
-          <button @click="nextPage" :disabled="currentPage === totalPages">Next page</button>
+          <button @click="nextPage" :disabled="currentPage === totalPages">下一页</button>
         </div>
       </div>
     </div>

@@ -7,9 +7,9 @@
         <div class="medal-summary">
 
 
-          <p><span class="medal gold" style="font-size: 50px"><img src="@/assets/gold.png" alt="gold" class="medal-icon"> {{ medalDetail.gold }}</span></p>
-          <p><span class="medal silver" style="font-size: 50px"><img src="@/assets/silver.png" alt="silver" class="medal-icon"> {{ medalDetail.silver }}</span></p>
-          <p><span class="medal bronze" style="font-size: 50px"><img src="@/assets/bronze.png" alt="bronze" class="medal-icon"> {{ medalDetail.bronze }}</span></p>
+          <p><span class="medal gold" style="font-size: 50px"><img src="@/assets/gold.png" alt="金牌" class="medal-icon"> {{ medalDetail.gold }}</span></p>
+          <p><span class="medal silver" style="font-size: 50px"><img src="@/assets/silver.png" alt="银牌" class="medal-icon"> {{ medalDetail.silver }}</span></p>
+          <p><span class="medal bronze" style="font-size: 50px"><img src="@/assets/bronze.png" alt="铜牌" class="medal-icon"> {{ medalDetail.bronze }}</span></p>
           <p>Total number of medals : {{ medalDetail.count }} ranking: {{ medalDetail.rank }}</p>
         </div>
       </div>
