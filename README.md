@@ -1,5 +1,21 @@
 # my-vue2-project
 
+## Link(open the webpage of the project)
+https://project1-pearl-ten.vercel.app/
+
+## Group Student
+622115511 Sixuan Li
+
+642115503 Haoxuan Yu
+
+642115509 Panzhen Yu
+
+
+## Special Instructions
+The team member's Fork is not working and cannot push files, so we have chosen to upload directly. We apologize for the inconvenience.
+
+
+
 ## Project setup
 ```
 npm install
@@ -23,9 +39,10 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-### Student List
-622115511 Sixuan Li
 
-642115503 Haoxuan Yu
 
-642115509 Panzhen Yu
+
+
+
+
+
