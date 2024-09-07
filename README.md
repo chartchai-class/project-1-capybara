@@ -1,4 +1,4 @@
-# my-vue2-project
+# Project1
 
 ## Link(open the webpage of the project)
 https://project1-pearl-ten.vercel.app/
